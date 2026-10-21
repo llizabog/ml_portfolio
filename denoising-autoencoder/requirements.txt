@@ -1,0 +1,6 @@
+torch
+torchvision
+medmnist
+matplotlib
+tqdm
+tensorboard
